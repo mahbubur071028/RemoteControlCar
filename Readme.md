@@ -1,0 +1,1 @@
+Fabricated an embedded system-based remote car which was communicated using infrared rays. BASCOM-AVR script was used as programming language. The car could run both forward and backward at constant speed with left and right navigation. The detailed working procedure has been explained in the project work description file. 
